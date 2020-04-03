@@ -1,0 +1,314 @@
+CID_658_Athena_Commando_F_ToyMonkey
+CID_648_Athena_Commando_F_MsAlpine
+
+
+
+CID_658_Athena_Commando_F_ToyMonkey                      - Bear
+CID_VIP_Athena_Commando_M_GalileoJumper_SG               - Boldie
+CID_VIP_Athena_Commando_M_GalileoGondola_SG              - Holographic
+CID_576_Athena_Commando_M_CODSquadPlaid
+CID_642_Athena_Commando_F_ConstellationStar              - Astra
+CID_647_Athena_Commando_F_WingedFury                     
+CID_657_Athena_Commando_F_TechOpsBlue
+CID_659_Athena_Commando_M_MrIceGuy
+
+
+
+[EN]  Copy and whisper to the bot one of these lines to get leaked skins !
+[FR]  Copiez une de ces lignes et murmurez la au bot pour obtenir des skins Leakés ( pas encore sortis dans le jeu )
+
+Merry Marauder: CID_049_Athena_Commando_M_HolidayGingerbread - 44
+Ginger Gunner: CID_048_Athena_Commando_F_HolidayGingerbread - 44
+Crackshot: CID_050_Athena_Commando_M_HolidayNutcracker - 43
+Overtaker: CID_190_Athena_Commando_M_StreetRacerWhite - 42
+Whiteout: CID_188_Athena_Commando_F_StreetRacerWhite - 42
+Shade: CID_178_Athena_Commando_F_StreetRacerCobra - 42
+Maverick: CID_177_Athena_Commando_M_StreetRacerCobra - 42
+Battlehawk: CID_125_Athena_Commando_M_TacticalWoodland - 42
+Trailblazer: CID_114_Athena_Commando_F_TacticalWoodland - 42
+Rook: CID_173_Athena_Commando_F_StarfishUniform - 41
+Ranger étoilé: CID_158_Athena_Commando_F_StarsAndStripes - 41
+Star-Spangled Trooper: CID_157_Athena_Commando_M_StarsAndStripes - 41
+Nosed Raider: CID_047_Athena_Commando_F_HolidayReindeer - 41
+PANDA Chef d' équipe: CID_187_Athena_Commando_F_FuzzyBearPanda - 40
+boeuf Patron: CID_185_Athena_Commando_M_DurrburgerHero - 40
+Archétype: CID_182_Athena_Commando_M_ModernMilitary - 40
+Sledgehammer: CID_167_Athena_Commando_M_TacticalBadass - 40
+Squad Leader: CID_117_Athena_Commando_M_TacticalJungle - 40
+Cipher: CID_110_Athena_Commando_F_CircuitBreaker - 40
+Nog Ops: CID_046_Athena_Commando_F_HolidaySweater - 40
+Yuletide Ranger: CID_045_Athena_Commando_M_HolidaySweater - 40
+Critère: CID_152_Athena_Commando_F_CarbideOrange - 39
+Fortune: CID_172_Athena_Commando_F_SharpDresser - 38
+Moniker: CID_171_Athena_Commando_M_SharpDresser - 38
+Chef d'équipe Fireworks: CID_156_Athena_Commando_F_FuzzyBearInd - 38
+Oblivion: CID_153_Athena_Commando_F_CarbideBlack - 38
+Wingman: CID_139_Athena_Commando_M_FighterPilot - 38
+Omega: CID_116_Athena_Commando_M_CarbideBlack - 38
+Redline: CID_162_Athena_Commando_F_StreetRacer - 37
+Noir: CID_159_Athena_Commando_M_GumshoeDark - 37
+clinique Crosser: CID_151_Athena_Commando_F_SoccerGirlD - 37
+Finesse Finisher: CID_150_Athena_Commando_F_SoccerGirlC - 37 Stalwart Sweeper: CID_147_Athena_Commando_M_SoccerDudeD - 37 Menace aérienne: CID_146_Athena_Commando_M_SoccerDudeC - 37 Demi Maestro: CID_145_Athena_Commando_M_SoccerDudeB - 37 super Striker: CID_144_Athena_Commando_M_SoccerDudeA - 37 Carbure: CID_115_Athena_Commando_M_CarbideBlue - 37 Tricera Ops: CID_107_Athena_Commando_F_PajamaParty - 37 Mogul Master (KOR): CID_068_Athena_Commando_F_SkiGirl_KOR - 37
+Playmaker en équilibre: CID_149_Athena_Commando_F_SoccerGirlB - 37 Dribbleur
+dynamique: CID_148_Athena_Commando_F_SoccerGirlA - 37
+
+
+
+
+
+
+
+Mogul Maître (CHN): CID_067_Athena_Commando_F_SkiGirl_CHN - 37
+Maître Mogul (de GER): CID_066_Athena_Commando_F_SkiGirl_GER - 37 Mogul Maître (CAN): CID_063_Athena_Commando_F_SkiGirl_CAN - 37 Mogul Maître (Etats - Unis): CID_062_Athena_Commando_F_SkiGirl_USA - 37 Ace Alpine (KOR): CID_060_Athena_Commando_M_SkiDude_KOR - 37 Ace Alpine (CHN) : CID_059_Athena_Commando_M_SkiDude_CHN - 37 Ace alpin (GER): CID_058_Athena_Commando_M_SkiDude_GER - 37 Ace alpin (FRA): CID_057_Athena_Commando_M_SkiDude_FRA - 37 Ace Alpine (GBR): CID_056_Athena_Commando_M_SkiDude_GBR - 37 Ace alpin (CAN): CID_055_Athena_Commando_M_SkiDude_CAN - 37 Ace Alpine (États - Unis): CID_054_Athena_Commando_M_SkiDude_USA - 37
+Mogul Master (FRA): CID_065_Athena_Commando_F_SkiGirl_FRA - 37
+Mogul_F_S_F
+
+
+
+
+
+
+
+
+
+Ragnarok: CID_165_Athena_Commando_M_DarkViking - 36
+Triple Threat: CID_137_Athena_Commando_F_Basketball - 36
+Jumpshot: CID_136_Athena_Commando_M_Basketball - 36
+LITESHOW: CID_126_Athena_Commando_M_AuroraGlow - 36
+Nitelite: CID_124_Athena_Commando_F_AuroraGlow - 36
+foncé Vanguard: CID_105_Athena_Commando_F_SpaceBlack - 36
+Bataille Hound: CID_100_Athena_Commando_M_CuChulainn - 36
+Power Chord: CID_097_Athena_Commando_F_RockerPunk - 36
+foncé Voyager: CID_088_Athena_Commando_M_SpaceBlack - 36
+Codename ELF: CID_051_Athena_Commando_M_HolidayElf - 36
+Arctic Assassin: CID_037_Athena_Commando_F_WinterCamo - 36
+Absolute Zero: CID_036_Athena_Commando_M_WinterCamo - 36
+Sushi Master: CID_191_Athena_Commando_M_SushiChef - 35
+Sun Tan Specialist: CID_176_Athena_Commando_M_Lifeguard - 35
+Galaxy: CID_175_Athena_Commando_M_Celestial - 35
+Sun Strider: CID_166_Athena_Commando_F_Lifeguard - 35
+Vertex: CID_160_Athena_Commando_M_SpeedyRed - 35
+Destin: CID_143_Athena_Commando_F_DarkNinja - 35
+Stalker Sky: CID_142_Athena_Commando_M_WWIIPilot - 35
+Omen: CID_141_Athena_Commando_M_DarkEagle - 35
+Striker Bleu: CID_138_Athena_Commando_M_PSBurnout - 35
+Havoc: CID_089_Athena_Commando_M_RetroGrey - 35
+Seigneur Rust: CID_082_Athena_Commando_M_Scavenger - 35
+Circuit Disjoncteur: CID_042_Athena_Commando_M_Cyberpunk - 35
+Skull Trooper: CID_030_Athena_Commando_M_Halloween - 35
+Ghoul Trooper: CID_029_Athena_Commando_F_Halloween - 35
+Aerobic Assassin: CID_189_Athena_Cercando_F 34
+Mulet Marauder: CID_186_Athena_Commando_M_Exercise - 34
+Dynamo: CID_170_Athena_Commando_F_Luchador - 34
+Masked Furie: CID_169_Athena_Commando_M_Luchador - 34
+Rapscallion: CID_135_Athena_Commando_F_Jailbird - 34
+Scoundrel: CID_134_Athena_Commando_M_Jailbird - 34
+Bandolier: CID_131_Athena_Commando_M_Warpaint - 34
+Abstrakt: CID_121_Athena_Commando_M_Graffiti - 34
+Teknique: CID_120_Athena_Commando_F_Graffiti - 34
+Leviathan: CID_108_Athena_Commando_M_Fishhead - 34
+Highland Guerrier: CID_099_Athena_Commando_F_Scathach - 34
+Rex: CID_093_Athena_Commando_M_Dinosaur - 34
+Brilliant Striker: CID_092_Athena_Commando_F_RedShirt - 34
+Striker Radiant: CID_091_Athena_Commando_M_RedShirt - 34
+Rogue Agent: CID_090_Athena_Commando_M_Tactical - 34
+Le Reaper: CID_084_Athena_Commando_M_Assassin - 34
+Agent Elite: CID_083_Athena_Commando_F_Tactical - 34
+Cuddle Chef d' équipe: CID_069_Athena_Commando_F_PinkBear - 34
+Dominator: CID_041_Athena_Commando_F_District - 34
+Devastator: CID_040_Athena_Commando_M_District - 34
+Black Knight: CID_035_Athena_Commando_M_Medieval - 34
+Chevalier Rouge: CID_034_Athena_Commando_F_Medieval - 34
+Chevalier Royale: CID_033_Athena_Commando_F_Medieval - 34
+Bleu Squire: CID_032_Athena_Commando_M_Medieval - 34
+Gumshoe: CID_155_Athena_Commando_F_Gumshoe - 33
+Sleuth: CID_154_Athena_Commando_M_Gumshoe - 33
+Le visiteur: CID_140_Athena_Commando_M_Visitor - 33
+Bombardier Royale: CID_113_Athena_Commando_M_BlueAce - 33
+Midnight Ops: CID_101_Athena_Commando_M_Stealth - 33
+Sgt. Trèfle vert: CID_098_Athena_Commando_F_StPatty - 33
+Chef d' équipe Rose: CID_096_Athena_Commando_F_Founder - 33
+Warpaint: CID_095_Athena_Commando_M_Founder - 33
+Scarlet Defender: CID_087_Athena_Commando_F_RedSilk - 33
+Crimson Scout: CID_086_Athena_Commando_M_RedSilk - 33
+Mogul Master: CID_061_Athena_Commando_F_SkiGirl - 33
+Ace Alpine: CID_053_Athena_Commando_M_SkiDude - 33
+Shadow Ops: CID_043_Athena_Commando_F_Stealth - 33
+Recrue: CID_008_Athena_Commando_M_Default - 33
+Recruter: CID_007_Athena_Commando_M_Default - 33
+Recruter: CID_006_Athena_Commando_M_Default - 33
+recrue: CID_005_Athena_Commando_M_Default - 33
+recrue: CID_004_Athena_Commando_F_Default - 33
+recrue: CID_003_Athena_Commando_F_Default - 33
+recrue: CID_002_Athena_Commando_F_Default - 33
+recrue: CID_001_Athena_Commando_F_Default - 33
+Magnus: CID_164_Athena_Commando_M_Viking - 32
+Huntress: CID_163_Athena_Commando_F_Viking - 32
+Moisty Merman: CID_130_Athena_Commando_M_Merman - 32
+Agent danger: CID_128_Athena_Commando_F_Hazmat - 32
+Toxic Trooper: CID_127_Athena_Commando_M_Hazmat - 32
+Sous-commandant: CID_085_Athena_Commando_M_Twitch - 32
+Officier tactique: CID_075_Athena_Commando_F_Stripe - 32
+Jungle Scout: CID_074_Athena_Commando_F_Stripe - 32
+Wukong: CID_071_Athena_Commando_M_Wukong - 32
+bleu Chef d' équipe: CID_052_Athena_Commando_F_PSBlue - 32
+Brite Bomber: CID_044_Athena_Commando_F_SciPop - 32
+Wreck Raider: CID_180_Athena_Commando_M_Scuba - 31
+Ranger Reef: CID_179_Athena_Commando_F_Scuba - 31
+Chomp Sr .: CID_168_Athena_Commando_M_Shark - 31
+Drift: CID_161_Athena_Commando_M_Drift - 31
+Flytrap: CID_132_Athena_Commando_M_Venus - 31
+chrome: CID_123_Athena_Commando_F_Metal - 31
+Diecast: CID_122_Athena_Commando_M_Metal - 31
+Zoey: CID_119_Athena_Commando_F_Candy - 31
+Valor: CID_118_Athena_Commando_F_Valor - 31
+Brite Gunner: CID_112_Athena_Commando_M_Brite - 31
+Tomatohead: CID_109_Athena_Commando_M_Pizza - 31
+Lapin Brawler: CID_104_Athena_Commando_F_Bunny - 31
+Lapin Raider: CID_103_Athena_Commando_M_Bunny - 31
+Raven: CID_102_Athena_Commando_M_Raven - 31
+Burnout: CID_094_Athena_Commando_M_Rider - 31
+Moonwalker: CID_081_Athena_Commando_F_Space - 31
+Mission Spécialiste: CID_080_Athena_Commando_M_Space - 31
+Ops Snorkel: CID_073_Athena_Commando_F_Scuba - 31
+Sash Sergent: CID_072_Athena_Commando_M_Scout - 31
+Love Ranger: CID_070_Athena_Commando_M_Cupid - 31
+Sparkle Specialist: CID_039_Athena_Commando_F_Disco - 31
+Funk Ops: CID_038_Athena_Commando_M_Disco - 31
+Raptor: CID_031_Athena_Commando_M_R_ 31
+Ventura: CID_133_Athena_Commando_F_Deco
+Venturion: CID_129_Athena_Commando_M_Deco - 30
+Steelsight: CID_111_Athena_Commando_F_Robo - 30
+Whiplash: CID_106_Athena_Commando_F_Taxi - 30
+Tour Recon Spécialiste: CID_079_Athena_Commando_F_Camo - 30
+Highrise Assault Trooper: CID_078_Athena_Commando_M_Camo - 30
+Hyperion: CID_077_Athena_Commando_M_Sup - 29
+Dazzle: CID_076_Athena_Commando_F_Sup - 29
+Renegade Raider: CID_028_Athena_Commando_F - 25
+Spécialiste de la survie: CID_027_Athena_Commando_F - 25
+Desperado: CID_026_Athena_Commando_M - 25
+Spécialiste de la première frappe: CID_025_Athena_Commando_M - 25
+Spécialiste de la reconnaissance: CID_024_Athena_Commando_F - 25 - 25
+Munitions Expert: CID_023_Athena_Commando_F - 25
+Recon Expert: CID_022_Athena_Commando_F - 25
+Brawler: CID_021_Athena_Commando_F - 25
+Forces spéciales: CID_020_Athena_Commando_M - 25
+Infiltrator: CID_019_Athena_Commando_M - 25
+Recon Scout: CID_018_Athena_Commando_M - 25
+Aerial Assault Trooper: CID_017_Athena_Commando_M - 25
+Commando: CID_016_Athena_Commando_F - 25
+Assault Trooper: CID_015_Athena_Commando_F - 25
+Pathfinder: CID_014_Athena_Commando_F - 25
+Renegade: CID_013_Athena_Commando_F - 25
+Trooper: CID_012_Athena_Commando_M - 25
+scout: CID_011_Athena_Commando_M - 25
+Ranger: CID_010_Athena_Commando_M - 25
+Tracker: CID_009_Athena_Commando_M - 25
+===========================
+Ride the Pony: EID_RideThePony_Athena - 22
+Ciseaux à papier Rock: EID_RockPaperScissors - 21
+Brossez-vous les épaules: EID_DustOffShoulders - 20 coups de
+pied : EID_SoccerJuggling - 18
+Electro shuffle: EID_ElectroShuffle - 18
+Rocket Spinner: EID_FireworksSpin - 17
+Vous êtes génial: EID_YoureAwesome - 16
+Respect: EID_KungFuSalute - 16
+Prendre 14: EID_Clapperboard - 16
+Rocket Rodeo: EID _ ******* Odeo - 15
+tempête Salutation: EID_PraiseStorm - 15
+Vivre grand: EID_LivingLarge - 15
+True Heart: EID_KPopDance01 - 15
+Infinite Dab: EID_InfiniteDab - 15
+Signaux des mains: EID_HandSignals - 15
+Squat Kick: EID_EasternBloc - 15
+Jubilation: EID_Celebration - 15
+Thumbs Down: EID_ThumbsDown - 14
+Hootenanny: EID_TapShuffle - 14
+Rock Out: EID_RockGuitar - 14
+Star Power: EID_PopDance01 - 14
+Make It Rain: EID_MakeItRain - 14
+Finger Guns: EID_FingerGuns - 14
+Disco Fever: EID_DiscoFever - 14
+Dance Moves: EID_DanceMoves - 14
+Calculé: EID_Calculated - 14
+Breakin ': EID_BreakDance - 14
+Boogie Down: EID_BoogieDown - 14
+Baller: EID_Basketball - 14
+Sur le crochet: EID_OnTheHook - 13
+Lama Bell: EID_LlamaBell - 13
+Intensité: EID_Intensity - 13
+Click !
+: EID_Clam
+Orange Justice: EID_GoodVibes - 13
+Bring It: EID_BringItOn - 13
+Les meilleurs Mates: EID_BestMates - 13
+Amour vrai: EID_TrueLove - 12
+pouces Up: EID_ThumbsUp - 12
+Prenez L: EID_TakeTheL - 12
+Gentleman Dab: EID_StageBow - 12
+Sparkler: EID_Sparkler - 12
+lent Clap: EID_SlowClap - 12
+Flippin' Sexy: EID_SexyFlip - 12
+pur Salt: EID_PureSalt - 12
+Finger Wag: EID_NotToday - 12
+Kiss Kiss: EID_KissKiss - 12
+Step it Up: EID_IrishJig - 12
+Hot Stuff: EID_HotStuff - 12
+Breakdown: EID_HipHopS5 - 12
+Freestylin ': EID_HipHop01_ 12
+Palm Face
+: EID_HipHop01 - 12
+Confus: EID_Confused - 12
+Point de rupture: EID_BreakYou - 12
+Désossé: EID_Boneless - 12
+Flippin 'Incredible: EID_Backflip - 12
+Work It Out: EID_Aerobics - 12
+Swipe It: EID_SwipeIt - 11
+Red Card: EID_RedCard - 11
+Pop Lock: EID_PopLock - 11
+Popcorn: EID_Popcorn - 11
+Flapper
+: EID_Ficken - 11
+Réanimé: EID_Zombie - 10
+Wiggle: EID_Wiggle - 10
+Salute: EID_Salute - 10
+Eagle: EID_KEagle - 10
+Rambunctious: EID_Zippy - 9
+Twist: EID_Twist - 9
+Le robot: EID_Robot - 9
+Laugh It Up: EID_Laugh - 9
+Fresh: E
+Floss: EID_Floss - 9
+Zany: EID_Bendy - 9
+Dip: EID_Yeet - 8
+Le ver: EID_Worm - 8
+Vague: EID_Wave - 8
+Tidy: EID_Tidy - 8
+Snap: EID_Snap - 8
+Pumpernickel: EID_Pump - 8
+Hype: EID_Hype - 8
+Hula: EID_Hula - 8
+Gun Show: EID_Flex - 8
+Go! Aller! Allez!: EID_Chug - 8
+Dab: EID_Dab - 7
+
+NOUVEAUX ARTICLES!
+Fancy Feet: EID_FancyFeet - 13
+Capoeira: EID_Capoeira - 12
+Shake It Up: EID_Maracas - 11
+Louange La tomate: EID_PraiseTheTomato - 19
+Thérapie par la danse: EID_Warehouse - 13
+Job Well Done: EID_DustingHands - 16
+
+Far Out Man: CID_192_Athena_Commando_M_Hippie - 32
+dreamflower: CID_193_Athena_Comamndo_F_Hippie - 32
+Ravage: CID_194_Athena_Commando_F_RavenQuill - 36
+Le Ace: CID_195_Athena_Commando_F_Bling - 31
+Backbone: CID_196_Athena_Commando_M_Biker - 31
+Chopper: CID_197_Athena_Commando_F_Biker - 31
+Musha: CID_198_Athena_Commando_M_BlueSamurai - 37
+Hime: CID_199_Athena_Commando_F_BlueSamurai - 37
+Enforcer: CID_200_Athena_Commando_M_DarkPaintballer - 41
+Armadillo: CID_201_Athena_Commando_M_DesertOps - 35
+Scorpion: CID_202_Athena_Commando_F_DesertOps - 35
+Cloaked étoiles: CID_203_Athena_Commando_M_CloakedStar - 37
