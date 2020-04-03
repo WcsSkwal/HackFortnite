@@ -1,0 +1,97 @@
+! skin - Définit la tenue du client en utilisant le nom de la tenue.
+Utilisation:! Skin <Nom du Skin>
+
+! backpack - Définit le sac à dos du client en utilisant le nom des sacs à dos.
+Utilisation:! Sac à dos <nom du sac à dos>
+
+! emote - Définit l'emote du client en utilisant le nom emotes.
+Utilisation:! Emote <nom de l'emote>
+
+! pickaxe - Définit la pioche du client en utilisant le nom de la pioche.
+Utilisation:! Pickaxe <nom de la pioche>
+
+! pet - Définit l'animal (sac à dos) du client en utilisant le nom de l'animal.
+Utilisation:! Animal <nom de l'animal>
+
+! emote - Définit les emoji du client en utilisant le nom des emojis.
+Utilisation:! Emoji <nom emoji>
+
+! variantes - Crée la liste des variantes selon les variantes que vous avez définies.
+Utilisation:! Variantes <CID> <type de style> <entier>
+
+! purpleskull - Définit la tenue du client sur Purple Skull Trooper.
+Utilisation:! Purpleskull
+
+! pinkghoul - Définit la tenue du client sur Pink Ghoul Trooper.
+Utilisation:! Pinkghoul
+
+! brainiacghoul - Définit la tenue du client sur Brainiac Ghoul Trooper.
+Utilisation:! Brainiacghoul
+
+! purpleportal - Définit le sac à dos du client sur Purple Ghost Portal.
+Utilisation:! Purpleportal
+
+! checkeredrenegade - Définit la tenue du client sur Checkered Renegade. Utilisation:! Checkeredrenegade
+
+! banner - Définit la bannière du client.
+Utilisation:! Banner <icon> <colour> <level>
+
+CID_ - Définit la tenue du client à l'aide de CID.
+Utilisation: <CID>
+
+BID_ Définit le sac à dos du client à l'aide de BID.
+Utilisation: <BID>
+
+PICKAXE_ID_ - Définit la pioche du client à l'aide de PICKAXE_ID.
+Utilisation: <PICKAXE_ID>
+
+EID_ - Définit l'emote du client utilisant EID.
+Utilisation: <EID>
+
+PetCarrier_ - Définit l'animal du client utilisant PetCarrier_.
+Utilisation: <PetCarrier_>
+
+Emoji_ - Définit l'emoji du client utilisant Emoji_. Utilisation: <Emoji_>
+
+! stop - Efface / arrête l'émote en cours de lecture.
+Utilisation:! Stop
+
+! help - Affiche un lien vers cette page Web.
+Utilisation:! Aide
+
+! legacypickaxe - Définit la pioche du client à l'aide de Pickaxe_
+Utilisation:! Legacypickaxe <pickaxe>
+
+! point - Définit la pioche à l'aide de PICKAXE_ID et fait «pointer le point»
+Utilisation:! Point <PICKAXE_ID>
+
+! searchpoint - Définit la pioche en utilisant le nom de la pioche et fait "pointer le point"
+Utilisation:! Searchpoint <nom de la pioche>
+
+Commandes du parti
+! ready - Définit l'état de préparation du client sur prêt.
+Utilisation:! Prêt
+
+! unready /! sitin - Définit l'état de préparation du client sur unready.
+Utilisation:!
+
+! sitout - Définit l'état de préparation du client à SittingOut.
+Utilisation:!
+
+! bp - Définit les informations du champ de bataille du client.
+Utilisation:! Bp <niveau> <boost xp> <boost xp ami>
+
+! echo - Envoie un message pour discuter avec le contenu donné.
+Utilisation:! Echo <message>
+
+! status - Envoie et définit le statut.
+Utilisation:! Status <text>
+
+! Leave - Quitte le groupe actuel.
+Utilisation:! Laisser
+
+! kick - donne un coup de pied à l'utilisateur entré.
+Utilisation:! Kick <nom d'utilisateur>
+
+! platform - Définit la plateforme des clients.
+Utilisation:! Platform <platform>
